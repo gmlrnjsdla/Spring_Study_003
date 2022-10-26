@@ -40,6 +40,8 @@ public class MainClass {
 		System.out.println(stu4.getHobbys());
 		System.out.println(stu4.getHeight());
 		System.out.println(stu4.getWeight());
+		
+		ctx.close();
 	}
 
 }
